@@ -1,1 +1,1 @@
-# CodingAgentPlugin
+# kimb-sb-coding-agent-plugin

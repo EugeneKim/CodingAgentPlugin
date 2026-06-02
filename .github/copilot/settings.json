@@ -1,0 +1,7 @@
+{
+  "EugeneMarketplace": {
+    "company-tools": {
+      "source": { "source": "github", "repo": "https://github.com/igt-ApacStudios/kimb-sb-coding-agent-plugin" }
+    }
+  }
+}

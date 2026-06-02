@@ -1,0 +1,20 @@
+{
+  "name": "eugene-coding-agent-plugin",
+  "displayName": "Eugene's Coding Agent Plugin",
+  "description": "Eugene's coding agent plugin with echo and translation skills",
+  "version": "1.0.2",
+  "author": {
+    "name": "Eugene Kim",
+    "url": "https://github.com/igt-ApacStudios"
+  },
+  "homepage": "https://github.com/igt-ApacStudios/kimb-sb-coding-agent-plugin",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/igt-ApacStudios/kimb-sb-coding-agent-plugin"
+  },
+  "bugs": {
+    "url": "https://github.com/igt-ApacStudios/kimb-sb-coding-agent-plugin/issues"
+  },
+  "keywords": ["coding", "agent", "skill", "echo", "translation"],
+  "skills": "skills/"
+}
